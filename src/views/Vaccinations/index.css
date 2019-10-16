@@ -1,0 +1,10 @@
+.mapIcon{
+    color: black;
+    font-size: 16px;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.mapIcon:hover{
+    color: cornflowerblue;
+}

@@ -1,0 +1,30 @@
+.ant-carousel .slick-slide {
+    /* vertical-align: text-top; */
+    text-align: center;
+    height: 600px;
+    line-height: 600px;
+    overflow: hidden;
+  }
+  
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+  }
+
+  .ant-carousel .bg0 {
+    background: url("../../Home/imgs/banner0bg.jpg") center;
+  }
+
+  .ant-carousel .bg1 {
+    background: url("../../Home/imgs/banner2bg.jpg") center;
+  }
+  .ant-carousel  .bg2{
+    background: url("../../Home/imgs/banner3bg.jpg") center;
+  }
+
+  .card-image {
+    position: "absolute";
+    left:"50%";
+    margin-left:"-75px";
+    bottom:"24px";
+    width:"150px", 
+  }
